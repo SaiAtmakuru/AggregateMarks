@@ -1,0 +1,13 @@
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.exe
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.deps.json
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.runtimeconfig.json
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.runtimeconfig.dev.json
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.dll
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\bin\Debug\netcoreapp3.1\MarksAggregation.pdb
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.csprojAssemblyReference.cache
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.AssemblyInfoInputs.cache
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.AssemblyInfo.cs
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.csproj.CoreCompileInputs.cache
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.dll
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.pdb
+C:\Users\atmakurs\source\repos\MarksAggregation\MarksAggregation\obj\Debug\netcoreapp3.1\MarksAggregation.genruntimeconfig.cache
